@@ -1,0 +1,48 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+}
+
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section a{
+    text-decoration: none;
+}
+
+#lightpink{
+    background-color: lightpink;
+    font-size:23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#lightblue{
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size:23px;
+}
+
+#newcolor{
+    background-color: #7E84FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size:23px;
+}

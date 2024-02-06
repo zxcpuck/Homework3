@@ -1,0 +1,32 @@
+.box1{
+    background-color: lightpink;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box2{
+    background-color: black;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    margin: 0;
+}
+
+.boxtxt {
+    text-align: center;
+}
+
+.boxtxt2{
+    color: white;
+    text-align: center;
+}
